@@ -23,7 +23,7 @@ We are in no way affiliated with the [College board](https://www.collegeboard.or
 
 ## 🔧 Installation & Requirements
 
-### Python 3.8+
+### Python 3.9+
 
 Install dependencies:
 
@@ -39,6 +39,11 @@ pip update Python3 #or just Python
 ```
 
 ---
+
+Don't have python installed?
+ click [here](https://www.python.org/downloads/)
+
+ ---
 
 ## 🚀 Running the App
 
