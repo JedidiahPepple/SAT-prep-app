@@ -24,6 +24,13 @@ Install dependencies:
 ```bash
 pip install PyQt6 appdirs
 ```
+ 
+---
+update python:
+
+```bash
+pip update Python3 #or just Python
+```
 
 ---
 
