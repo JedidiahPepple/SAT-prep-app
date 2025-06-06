@@ -43,6 +43,8 @@ pip update Python3 #or just Python
 ## 🚀 Running the App
 
 ```bash
+#locate the directory in which it is downloaded (eg: cd downloads), then run:
+
 python satprepapp.py
 ```
 
