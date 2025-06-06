@@ -96,7 +96,7 @@ Each question bank file should look like:
     {
       "id": 1,
       "question": "What is the value of x in 2x + 3 = 7?",
-      "options": ["1", "2", "3", "4"],
+      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
       "answer": "B"
     },
     ...
