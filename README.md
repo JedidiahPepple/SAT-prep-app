@@ -112,4 +112,4 @@ An executable will be provided soon... in the mean while you can run the python 
 Please ensure your question bank files follow the correct format — mismatches will prevent questions from loading.
 
 Pull requests, issues, and feedback are welcome!;
-Chat with me on [telegram](t.me://jayjaylovescandles),if you want to contribute or need assistance (i'm not always available though..)
+Chat with me on [telegram](https://t.me/jayjaylovescandles),if you want to contribute or need assistance (i'm not always available though..)
