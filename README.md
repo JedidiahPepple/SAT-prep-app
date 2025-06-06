@@ -43,7 +43,7 @@ pip update Python3 #or just Python
 ## 🚀 Running the App
 
 ```bash
-python satprep.py
+python satprepapp.py
 ```
 
 If it's your first time launching, the app will automatically create a default config file in a platform-appropriate location:
