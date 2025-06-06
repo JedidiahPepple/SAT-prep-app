@@ -123,7 +123,7 @@ The main question banks will be added later on, as compiling 600+ questions into
 
 ---
 
-## ❤️ Notes
+## Notes
 
 This project was made with love (and insomnia). You are free to modify and redistribute it with acquired permission.
 
