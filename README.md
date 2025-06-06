@@ -1,10 +1,14 @@
+---
 # SATPrepApp
 
 A basic and lightweight, offline SAT Practice App that simulates the test environment, tracks your progress, and highlights your strengths and weaknesses. Designed for students who want a focused, distraction-free study tool.
 
+---
+
 # Disclaimer
 We are in no way affiliated with the [College board](https://www.collegeboard.org/) , we only incoporate official past SAT questions made publicly available by the [College board](https://www.collegeboard.org/).
 
+---
 ## 📦 What This App Does
 
 * Presents SAT-style questions in a timed, sectioned format
