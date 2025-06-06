@@ -1,0 +1,14 @@
+{
+  "question_banks": {
+    "rw": "~/Documents/coding projects/sat.prep.app/reading_questions.json",
+    "math": "~/Documents/coding projects/sat.prep.app/math_questions.json"
+  },
+  "default_time_limits": {
+    "rw": 64,  
+    "math": 70 
+  },
+  "total_questions": {
+    "rw": 54,  
+    "math": 44 
+  }
+}

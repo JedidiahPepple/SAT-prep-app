@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The following text is adapted from Amy Lowell's 1912 poem...",
+      "options": ["A) A useless", "B) An empty", "C) A forgotten", "D) An incomplete"],
+      "answer": "B",
+      "question_type": "vocabulary_in_context",
+      "category": "Vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "In the 1960s, Sam Gilliam...",
+      "options": ["A) predicting", "B) refusing", "C) hiding", "D) creating"],
+      "answer": "D",
+      "question_type": "text_completion",
+      "category": "Grammar",
+      "difficulty": "easy"
+    }
+  ]
+}
