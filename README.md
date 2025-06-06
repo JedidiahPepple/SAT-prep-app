@@ -5,7 +5,7 @@ A basic and lightweight, offline SAT Practice App that simulates the test enviro
 
 ---
 
-# Disclaimer
+# ⚠️Disclaimer
 We are in no way affiliated with the [College board](https://www.collegeboard.org/) , we only incoporate official past SAT questions made publicly available by the [College board](https://www.collegeboard.org/).
 
 ---
