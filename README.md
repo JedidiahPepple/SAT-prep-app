@@ -67,7 +67,7 @@ This folder will contain:
 
 ---
 
-##  Adding Your Questions
+##  Adding Your Own Questions
 
 Update the `config.json` file to point to your own question banks. The format should look like this:
 
@@ -106,7 +106,7 @@ Each question bank file should look like:
 
 The main question banks will be added later on, as compiling 600+ questions into a json file isn't an easy feat.
 
-## Features That Matter
+## Features
 
 * **Auto Resume**: Automatically saves your test in progress so you never lose work.
 * **Analytics**: Tracks your scores over time and shows your weakest subjects.
@@ -118,7 +118,7 @@ The main question banks will be added later on, as compiling 600+ questions into
 
 * [PyQt6](https://pypi.org/project/PyQt6/) - for GUI
 * [appdirs](https://pypi.org/project/appdirs/) - for cross-platform and dynamic file paths
-* \[JSON] - for configs and question data
+* [JSON](https://www.json.org) - for configs and question data
 * [Python](https://python.org)  - duhh, it's a python script!
 
 ---
