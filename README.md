@@ -117,7 +117,7 @@ The main question banks will be added later on, as compiling 600+ questions into
 ## 🛠️ Built With
 
 * [PyQt6](https://pypi.org/project/PyQt6/) - for GUI
-* [appdirs](https://pypi.org/project/appdirs/) - for cross-platform file paths
+* [appdirs](https://pypi.org/project/appdirs/) - for cross-platform and dynamic file paths
 * \[JSON] - for configs and question data
 * [Python](https://python.org)  - duhh, it's a python script!
 
@@ -127,9 +127,9 @@ The main question banks will be added later on, as compiling 600+ questions into
 
 This project was made with love (and insomnia). You are free to modify and redistribute it with acquired permission.
 
-An executable will be provided soon... in the mean while you can run the python script or create your own executable
+An executable for Mac/Linux/Windows will be provided soon... in the mean while you can run the python script or create your own executable (executable is platform dependent with pyinstaller)
 
 Please ensure your question bank files follow the correct format — mismatches will prevent questions from loading.
 
 Pull requests, issues, and feedback are welcome!;
-Chat with me on [telegram](https://t.me/jayjaylovescandles),if you want to contribute or need assistance (i'm not always available though..)
+Chat with me on [telegram](https://t.me/jayjaylovescandles),if you want to contribute or need assistance (i'll do my best to get in touch)
