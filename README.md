@@ -132,4 +132,4 @@ An executable for Mac/Linux/Windows will be provided soon... in the mean while y
 Please ensure your question bank files follow the correct format — mismatches will prevent questions from loading.
 
 Pull requests, issues, and feedback are welcome!;
-Chat with me on [telegram](https://t.me/jayjaylovescandles),if you want to contribute or need assistance (i'll do my best to get in touch)
+Chat with me on [telegram](https://t.me/jayjaylovescandles) or create an issue,if you want to contribute or need assistance (i'll do my best to get in touch)
